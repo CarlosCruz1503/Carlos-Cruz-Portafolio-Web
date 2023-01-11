@@ -9,7 +9,6 @@
         color:black;
         .principal-title{
             font-size: 9rem;
-            margin: 1rem 5rem;
         } 
         .div-typer{
             display: flex;
@@ -28,7 +27,8 @@
 
 @media (max-width:992px){
     .div-presentation {
-
+        height: 100vh;
+        width: 100vw;
         .miTitle{
             margin-top: -10rem;
             .principal-title{
@@ -69,6 +69,26 @@
 @media (max-width:576px){
     .div-presentation {
 
+        .miTitle{
+            .principal-title{
+                font-size: 5rem;
+            } 
+            .div-typer{
+                .div-liner{
+                    border: 1px solid black;
+                    width: 3rem;
+                }
+                .div-typying{
+                    margin: 0rem 0.5rem;
+                }
+            }
+        }
+    }
+}
+@media (max-width:400px){
+    .div-presentation {
+        height: 100vh;
+        width: 100vw;
         .miTitle{
             .principal-title{
                 font-size: 5rem;

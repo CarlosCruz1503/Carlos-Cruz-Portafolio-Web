@@ -54,7 +54,7 @@
 
 @media (max-width:992px) {
     .about-div {
-
+        margin-top: 20rem;
         .about-title {
             h1 {}
         }
@@ -85,7 +85,33 @@
 
 @media (max-width:768px) {
     .about-div {
+        margin-top: 20rem;
+        .about-title {
+            h1 {}
+        }
 
+        .container {
+
+            .row-about {
+
+                .text-about {}
+
+                .squares {
+                    .info-square {}
+
+                    .info-square-one {
+                        margin-top: 1rem;
+                    }
+                }
+
+
+            }
+        }
+    }
+}
+@media (max-width:400px){
+    .about-div {
+        margin-top: 30rem;
         .about-title {
             h1 {}
         }
