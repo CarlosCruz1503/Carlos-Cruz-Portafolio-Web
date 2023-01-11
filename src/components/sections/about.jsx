@@ -10,7 +10,7 @@ const About = () => {
                 <div className="row row-about">
                     <div className="col-12 col-md-5 text-about">
                         <h2>INFORMACION</h2>
-                        <p>¡Hola! Me llamo Camilo, apasionado por la programación.</p>
+                        <p>¡Hola! Me llamo Carlos, apasionado por la programación.</p>
                         <p>Una de mis mayores motivaciones es aprender, actualmente estoy trabajando en mis habilidades como desarrollador participando en cursos y desarrollando proyectos en lenguajes como JavaScript, Python y Java.</p>
                         <p>Mi objetivo principal es aprender tecnologías que me permitan desenvolverme profesionalmente como desarrollador de software.</p>
                     </div>
