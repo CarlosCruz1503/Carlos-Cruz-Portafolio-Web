@@ -1,0 +1,111 @@
+.about-div {
+    background-color: #FFFFFF;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .about-title {
+        h1 {
+            font-size: 5rem;
+            color: black;
+        }
+    }
+
+    .container {
+        color: black;
+
+        .row-about {
+            margin: 0rem 2rem;
+
+            .text-about {
+                margin-top: 3rem;
+                font-size: 1.3rem;
+            }
+
+            .squares {
+                .info-square {
+                    margin: 1rem;
+                    margin-top: 3rem;
+                    height: 12rem;
+                    border: 1px solid rgba(0, 0, 0, 0.274);
+                    border-radius: 0.75rem;
+                }
+
+                .info-square-one {
+                    margin-top: 3rem;
+                }
+
+                .info-square:hover {
+                    transition: 0.5s;
+                    border: 3px solid lightseagreen;
+                    border-radius: 0.75rem;
+                    margin-top: 2.5rem;
+
+                }
+            }
+
+        }
+    }
+}
+
+@media (max-width:992px) {
+    .about-div {
+
+        .about-title {
+            h1 {}
+        }
+
+        .container {
+
+            .row-about {
+                margin: 0rem 0rem;
+
+                .text-about {}
+
+                .squares {
+                    .info-square {
+                        height: 8rem;
+                        margin: 1rem;
+                        margin-top: 1rem;
+                    }
+
+                    .info-square-one {
+                        margin-top: 3rem;
+                    }
+                }
+
+            }
+        }
+    }
+}
+
+@media (max-width:768px) {
+    .about-div {
+
+        .about-title {
+            h1 {}
+        }
+
+        .container {
+
+            .row-about {
+
+                .text-about {}
+
+                .squares {
+                    .info-square {}
+
+                    .info-square-one {
+                        margin-top: 1rem;
+                    }
+                }
+
+
+            }
+        }
+    }
+}

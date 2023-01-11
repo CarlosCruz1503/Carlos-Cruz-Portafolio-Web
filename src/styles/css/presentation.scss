@@ -1,13 +1,15 @@
 .div-presentation {
     display: flex;
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
     justify-content: center;
     align-items: center;
     .miTitle{
+        margin-top: -20rem;
         color:black;
         .principal-title{
-            font-size: 7rem;
+            font-size: 9rem;
+            margin: 1rem 5rem;
         } 
         .div-typer{
             display: flex;
@@ -15,7 +17,7 @@
             justify-content: center;
             .div-liner{
                 border: 1px solid black;
-                width: 20rem;
+                width: 15rem;
             }
             .div-typying{
                 margin: 0rem 3rem;
@@ -28,13 +30,14 @@
     .div-presentation {
 
         .miTitle{
+            margin-top: -10rem;
             .principal-title{
-                font-size: 7rem;
+                font-size: 6rem;
             } 
             .div-typer{
                 .div-liner{
                     border: 1px solid black;
-                    width: 13rem;
+                    width: 6rem;
                 }
                 .div-typying{
                     margin: 0rem 2rem;
@@ -49,15 +52,15 @@
 
         .miTitle{
             .principal-title{
-                font-size:6rem;
+                font-size:5rem;
             } 
             .div-typer{
                 .div-liner{
                     border: 1px solid black;
-                    width: 9rem;
+                    width: 4rem;
                 }
                 .div-typying{
-                    margin: 0rem 1rem;
+                    margin: 0rem 0.5rem;
                 }
             }
         }
@@ -73,10 +76,10 @@
             .div-typer{
                 .div-liner{
                     border: 1px solid black;
-                    width: 4rem;
+                    width: 3rem;
                 }
                 .div-typying{
-                    margin: 0rem 1rem;
+                    margin: 0rem 0.5rem;
                 }
             }
         }
