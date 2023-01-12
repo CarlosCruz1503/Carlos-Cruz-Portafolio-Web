@@ -1,7 +1,7 @@
 import React from 'react';
 // import Settings from './settings/Settings';
 import Home from '../pages/home';
-import About from "../components/sections/about"
+import About from './sections/about';
 /**
  * Función Anónima para crear un Componente principal
  * @returns {React.Component} Componente principal de nuestra aplicación
@@ -16,7 +16,6 @@ const App = () => {
   return (
     <div>
       <Home />
-      <About></About>
       <Navegation></Navegation>
       <Redes></Redes>
 

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
 .about-div {
     background-color: #FFFFFF;
     position: relative;
@@ -7,47 +8,56 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-
     .about-title {
         h1 {
             font-size: 5rem;
             color: black;
         }
     }
-
     .container {
         color: black;
-
         .row-about {
             margin: 0rem 2rem;
-
             .text-about {
                 margin-top: 3rem;
                 font-size: 1.3rem;
             }
-
             .squares {
                 .info-square {
-                    margin: 1rem;
-                    margin-top: 3rem;
+                    margin: 0.5rem;
+
                     height: 12rem;
                     border: 1px solid rgba(0, 0, 0, 0.274);
                     border-radius: 0.75rem;
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                    justify-content: center;
+                    background-color: rgba(0, 128, 128, 0.089);
+                    .square-number{
+                        font-size: 3.5rem;
+                        font-weight: 800;
+                        font-family: 'Bakbak One', cursive;
+                        margin: 0;
+                    }
+                    .square-text{
+                        font-size: 1.7rem;
+                    }
+                    .square-text-peque{
+                        font-size: 1.5rem;
+                    }
                 }
-
                 .info-square-one {
-                    margin-top: 3rem;
+                    
                 }
-
                 .info-square:hover {
                     transition: 0.5s;
                     border: 3px solid lightseagreen;
+                    background-color: rgba(0, 128, 128, 0.26);
                     border-radius: 0.75rem;
-                    margin-top: 2.5rem;
-
+                    margin-top: 1rem;
                 }
             }
-
         }
     }
 }
@@ -74,7 +84,6 @@
                     }
 
                     .info-square-one {
-                        margin-top: 3rem;
                     }
                 }
 
