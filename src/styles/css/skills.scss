@@ -40,12 +40,34 @@
         }
     }
 }
-@media (max-width:768px){
+@media (max-width:968px){
+    .div-skills {
+
+        .skills {
+            height: auto;
+
+            
+    
+            .row-skills {
+
+                .title{
+
+                }
+                .col-skill {
+                    .img{
+
+                    }
+                }
+            }
+        }
+    }
+}
+@media (max-width:512px){
     .div-skills {
         margin-top: 10rem;
 
         .skills {
-            height: 75%;
+            height: auto;
 
             
     

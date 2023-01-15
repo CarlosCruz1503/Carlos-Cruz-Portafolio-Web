@@ -16,10 +16,10 @@ import mongoLogo from "../../../public/images/mongo-logo.jpg"
 
 const Skills = () => {
     return (
-        <div className='div-skills'>
+        <div className='div-skills' id="skills">
             <div className="skills">
                 <div className="row row-skills">
-                    <h1 className='title'>Skills.</h1>
+                    <h1 className='title' id="skills-title">Skills.</h1>
                     <SkillItem img={htmlLogo}></SkillItem>
                     <SkillItem img={cssLogo}></SkillItem>
                     <SkillItem img={jsLogo}></SkillItem>
