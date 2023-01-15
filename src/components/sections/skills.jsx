@@ -10,7 +10,7 @@ import pythonLogo from "../../../public/images/python-logo.png"
 import djLogo from "../../../public/images/dj-logo.png"
 import djrestLogo from "../../../public/images/djrest-logo.png"
 import gitLogo from "../../../public/images/git-logo.png"
-import gitHubLogo from "../../../public/images/gitHub-logo.png"
+import gitHubLogo from "../../../public/images/github-logo.png"
 import postLogo from "../../../public/images/post-logo.png"
 import mongoLogo from "../../../public/images/mongo-logo.jpg"
 
