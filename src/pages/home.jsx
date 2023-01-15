@@ -3,6 +3,7 @@ import Presentation from '../components/sections/presentation';
 import "../styles/css/home.scss"
 import About from '../components/sections/about';
 import Projects from '../components/sections/projects';
+import Skills from '../components/sections/skills';
 const Home = () => {
     return (
         <div>
@@ -11,6 +12,7 @@ const Home = () => {
             </div>
             <About></About>
             <Projects></Projects>
+            <Skills></Skills>
         </div>
 
     );

@@ -45,7 +45,6 @@
                         margin: 0;
                         font-size: 0.7rem;
                     }
-
                     .buttons-projects-square {
                         .projects-icons {
                             background-color: #FFFFFF;
@@ -53,6 +52,15 @@
                             border-radius: 50%;
                             font-size: 1.75rem;
                             color: black;
+                            box-shadow: 4px 4px teal;
+                        }
+                        .projects-icons:hover {
+                            background-color: #000000;
+                            margin: 0.3rem 1rem;
+                            border-radius: 50%;
+                            font-size: 1.75rem;
+                            color: rgb(255, 255, 255);
+                            box-shadow: -4px -4px rgb(89, 45, 95);
                         }
                     }
 
@@ -62,7 +70,7 @@
                         flex-direction: row;
 
                         .icons-technologies {
-                            margin: 0rem 0.2rem;
+                            margin: 0.75rem 0.2rem;
                             color: white;
                             background-color: #FFFFFF;
                             height: 2rem;
@@ -71,20 +79,21 @@
                             display: flex;
                             align-items: center;
                             justify-content: center;
+                            
 
                             img {
                                 width: 1.5rem;
                             }
                         }
                         .i-large {
-                            height: 4rem;
+                            height: auto;
                             width: 4rem;
                             border-radius: 0;
                             background-color:transparent;
 
                             .img-large {
                                 width: 4rem;
-                                margin: 0 2rem;
+                                margin: 0 1rem;
                             }
                         }
                     }
