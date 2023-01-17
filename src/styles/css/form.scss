@@ -28,22 +28,27 @@
             margin: 2rem;
             z-index: 10;
             transform: scale(0);
+
+            flex-direction: column;
         }
-        .visible{
+
+        .visible {
             transform: scale(1);
             transition: 0.2s ease-in-out;
         }
 
         .form-title {
             margin-top: 5rem;
+
             h1 {
                 font-size: 5rem;
                 color: white;
                 margin-bottom: 3rem;
             }
-            h4{
+
+            h4 {
                 color: white;
-                margin:3rem;
+                margin: 3rem;
             }
 
         }
@@ -120,23 +125,21 @@
             .form-submit {
                 width: 80%;
                 height: 30%;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                flex-direction: column;
             }
 
 
             .form-title {
                 margin: 2rem;
+
                 h1 {
                     font-size: 3rem;
                     color: white;
                     margin-bottom: 3rem;
                 }
-                h4{
+
+                h4 {
                     color: white;
-                    margin:3rem;
+                    margin: 3rem;
                 }
 
             }
@@ -195,6 +198,7 @@
         }
     }
 }
+
 @media screen and (max-width:380px) {
     .div-form {
         margin-top: 10rem;
@@ -211,14 +215,16 @@
 
             .form-title {
                 margin: 2rem;
+
                 h1 {
                     font-size: 3rem;
                     color: white;
                     margin-bottom: 3rem;
                 }
-                h4{
+
+                h4 {
                     color: white;
-                    margin:3rem;
+                    margin: 3rem;
                 }
 
             }
