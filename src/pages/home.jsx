@@ -4,6 +4,8 @@ import "../styles/css/home.scss"
 import About from '../components/sections/about';
 import Projects from '../components/sections/projects';
 import Skills from '../components/sections/skills';
+import Footer from '../components/sections/footer';
+import Form from '../components/sections/form';
 const Home = () => {
     return (
         <div>
@@ -13,8 +15,9 @@ const Home = () => {
             <About></About>
             <Projects></Projects>
             <Skills></Skills>
+            <Form></Form>
+            <Footer></Footer>
         </div>
-
     );
 };
 
