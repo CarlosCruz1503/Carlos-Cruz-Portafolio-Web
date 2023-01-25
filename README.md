@@ -5,7 +5,7 @@ Esta es mi Pagina Web
 Fue Creada con React, para mostrar mi portafolio y mi conocimiento, espero te guste
 
 ## 🔗 Ver demo:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carlos-cruz-personal-web.onrender.com/)
+[![Demo](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carlos-cruz-personal-web.onrender.com/)
 
 
 ## Autor ✒️ :
