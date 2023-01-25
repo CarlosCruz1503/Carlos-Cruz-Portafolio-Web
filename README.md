@@ -25,7 +25,9 @@ npm run build:prod
 ./dist
 
 ## Contactame
-[![Contactame](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](www.linkedin.com/in/carlos-jose-cruz-luengas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jose-cruz-luengas/)
+[![Email](https://img.shields.io/badge/-Email-blue)](<a href="mailto:carlosjose445566@gmail.com">Mi email</a>)
+
 
 
 
