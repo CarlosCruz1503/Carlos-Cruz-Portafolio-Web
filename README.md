@@ -26,7 +26,7 @@ npm run build:prod
 
 ## Contactame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jose-cruz-luengas/)
-[![Email](https://img.shields.io/badge/-Email-blue)](<a href="mailto:carlosjose445566@gmail.com">Mi email</a>)
+<a href="mailto:carlosjose445566@gmail.com">Mi email</a>
 
 
 
