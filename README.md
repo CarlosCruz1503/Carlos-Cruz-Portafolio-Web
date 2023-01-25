@@ -5,7 +5,7 @@ Esta es mi Pagina Web
 Fue Creada con React, para mostrar mi portafolio y mi conocimiento, espero te guste
 
 ## 🔗 Ver demo:
-[![Demo]:robot:](https://carlos-cruz-personal-web.onrender.com/)
+🤖(https://carlos-cruz-personal-web.onrender.com/)
 
 
 ## Autor ✒️ :
