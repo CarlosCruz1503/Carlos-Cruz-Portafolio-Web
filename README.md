@@ -20,7 +20,7 @@ HTML, Css, Sass, Bootstrap, Js, ReactJS
 ## Instalación 
 Este proyecto utilizar Webpack y tiene Scripts Propios (Ver package.json)
 
-Npm run build:prod
+npm run build:prod
 
 ./dist
 
