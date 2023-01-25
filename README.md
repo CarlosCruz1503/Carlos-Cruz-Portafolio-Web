@@ -25,8 +25,9 @@ npm run build:prod
 ./dist
 
 ## Contactame
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jose-cruz-luengas/)
 <a href="mailto:carlosjose445566@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jose-cruz-luengas/)
+
 
 
 
