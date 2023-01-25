@@ -4,10 +4,10 @@ import Typewriter from "typewriter-effect";
 const Presentation = () => {
     return (
 
-        <div className="div-presentation">
-            <div className="miTitle">
-                <h1 class="principal-title text-center">CARLOS CRUZ.</h1>
-                <div className="div-typer">
+        <div className="div-presentation ">
+            <div className="miTitle hidden">
+                <h1 class="principal-title text-center ">CARLOS CRUZ.</h1>
+                <div className="div-typer ">
                     <div className="div-liner"></div>
                     <div className="div-typying">
                         <h3 class="text-type text-center">

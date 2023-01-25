@@ -9,7 +9,7 @@
     .skills {
         background-color: black;
         width: 100%;
-        height: 60%;
+        height: auto;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -42,32 +42,10 @@
         }
     }
 }
-@media (max-width:968px){
-    .div-skills {
 
-        .skills {
-            height: auto;
-
-
-            
-    
-            .row-skills {
-
-                .title{
-
-                }
-                .col-skill {
-                    .img{
-
-                    }
-                }
-            }
-        }
-    }
-}
 @media (max-width:512px){
     .div-skills {
-        margin-top: 10rem;
+        
 
 
         .skills {
@@ -95,6 +73,7 @@
 @media (max-width:480px){
     .div-skills {
         margin-top: 20rem;
+        height: auto;
 
 
         .skills {

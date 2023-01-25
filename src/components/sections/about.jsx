@@ -1,13 +1,14 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import "../../styles/css/about.scss"
 import AboutSquare from '../pure/about-square';
 const About = () => {
+
     return (
         <div className='about-div' id="about">
-            <div className='about-title' id="about-title">
+            <div className='about-title ' id="about-title">
                 <h1 className='text-center'>SOBRE MI.</h1>
             </div>
-            <div className="container">
+            <div className="container hiddenRight">
                 <div className="row row-about">
                     <div className="col-12 col-md-5 text-about">
                         <h2>INFORMACION</h2>

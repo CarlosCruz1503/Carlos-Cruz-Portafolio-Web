@@ -2,7 +2,7 @@ import React from 'react';
 import "../styles/css/redes.scss"
 const Redes = () => {
     return (
-        <div className='networks'>
+        <div className='networks hidden'>
             <div className="line-decoration"></div>
             <a href="https://www.linkedin.com/in/carlos-jose-cruz-luengas/" target="_blank" className="btn fix-networks"><i class="bi bi-linkedin icons-networks" ></i></a>
             <a href="https://github.com/CarlosCruz1503" target="_blank" className="btn fix-networks"><i class="bi bi-github icons-networks" ></i></a>

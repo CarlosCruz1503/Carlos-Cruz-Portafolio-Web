@@ -18,3 +18,35 @@ body::-webkit-scrollbar-thumb {
     background-color: rgb(0, 0, 0);
     border-radius: 1.5rem;
 }
+
+.hidden{
+    opacity: 0;
+    transition: 1s all;
+    transform:translateX(-100%);
+    filter:blur(20px)
+}
+.show{
+    opacity: 1;
+    transform:translateX(0);
+    filter:blur(0px)
+}
+.hiddenRight{
+    opacity: 0;
+    transition: 1s all;
+    transform:translateX(100%);
+    filter:blur(20px)
+}
+.showRight{
+    opacity: 1;
+    transform:translateX(0);
+    filter:blur(0px)
+}
+@media (max-width:998px){
+    .hidden{
+        transition: 0.75s all;
+    }
+    .hiddenRight{
+        transition: 0.75s all;
+    }
+    
+}

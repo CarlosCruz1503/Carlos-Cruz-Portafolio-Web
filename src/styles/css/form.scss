@@ -113,11 +113,15 @@
         }
     }
 }
+@media screen and (max-width:992px) {
+    .div-form {
+        margin-top: 10rem;
+        height: auto;
+    }
+}
 
 @media screen and (max-width:568px) {
     .div-form {
-        margin-top: 10rem;
-        margin-bottom: 10rem;
 
         .form-back {
             height: auto;
@@ -199,10 +203,8 @@
     }
 }
 
-@media screen and (max-width:380px) {
+@media screen and (max-width:480px) {
     .div-form {
-        margin-top: 10rem;
-        margin-bottom: 10rem;
 
         .form-back {
             height: auto;

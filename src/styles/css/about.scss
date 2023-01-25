@@ -64,7 +64,7 @@
 
 @media (max-width:992px) {
     .about-div {
-        margin-top: 10rem;
+        height: auto;
         .about-title {
             h1 {}
         }
@@ -94,7 +94,6 @@
 
 @media (max-width:768px) {
     .about-div {
-        margin-top: 10rem;
         .about-title {
             h1 {}
         }
@@ -120,7 +119,6 @@
 }
 @media (max-width:400px){
     .about-div {
-        margin-top: 20rem;
         .about-title {
             h1 {
                 font-size: 3rem;

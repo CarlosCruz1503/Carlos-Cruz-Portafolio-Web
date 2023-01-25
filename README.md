@@ -1,4 +1,4 @@
-# ob-react-final
+# Mi portafolio Personal
 
 Proyecto Final curso OB de React JS
 
