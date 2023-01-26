@@ -66,10 +66,8 @@ const Projects = () => {
                     <ProjectCard
                         img={crudBack}
                         title="DJANGO CRUD (SOLO BACKEND)"
-                        nota1="Al entrar a la web es super lenta para iniciar (40s)"
-                        nota2="Ten paciencia, es un server gratuito"
-                        linkWeb="https://coto-qqma.onrender.com"
-                        linkGit="https://github.com/CarlosCruz1503/authCrud"
+                        linkWeb="https://carloscruz.pythonanywhere.com/"
+                        linkGit="https://github.com/CarlosCruz1503/CRUDAUTH"
                         icons={["https://cdn-icons-png.flaticon.com/512/152/152843.png",
                             "https://cdn-icons-png.flaticon.com/512/732/732007.png",
                             "https://cdn-icons-png.flaticon.com/512/5968/5968509.png",
