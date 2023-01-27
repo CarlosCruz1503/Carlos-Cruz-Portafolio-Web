@@ -65,7 +65,7 @@ const Projects = () => {
 
                     <ProjectCard
                         img={crudBack}
-                        title="DJANGO CRUD (SOLO BACKEND)"
+                        title="DJANGO APP DE CONTACTOS Y TAREAS"
                         linkWeb="https://carloscruz.pythonanywhere.com/"
                         linkGit="https://github.com/CarlosCruz1503/CRUDAUTH"
                         icons={["https://cdn-icons-png.flaticon.com/512/152/152843.png",
