@@ -23,9 +23,8 @@ const Projects = () => {
                     <ProjectCard
                         img={instagram}
                         title="Copia de Instagram, desarollada con React y Django-Rest"
-                        linkWeb="https://instacrem.vercel.app/home/"
-                        linkGit="https://github.com/CarlosCruz1503/Instacrem---REACT"
-                        linkGit2="https://github.com/CarlosCruz1503/django-instacrem"
+                        linkWeb="https://instagremi.vercel.app/home/"
+                        linkGit="https://github.com/CarlosCruz1503/Instagram-Copy"
                         icons={["https://cdn-icons-png.flaticon.com/512/152/152843.png",
                             "https://cdn-icons-png.flaticon.com/512/732/732007.png",
                             "https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png",
